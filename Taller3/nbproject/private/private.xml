@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/davic/Documents/NetBeansProjects/Taller3/web/login.html</file>
-            <file>file:/C:/Users/davic/Documents/NetBeansProjects/Taller3/src/java/co/edu/uptc/sw2/t2/ProcesarLogIn.java</file>
-            <file>file:/C:/Users/davic/Documents/NetBeansProjects/Taller3/web/index.html</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/web/login.html</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/web/index.html</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/src/java/co/edu/uptc/sw2/taller3/FiltroFormulario.java</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/src/java/co/edu/uptc/sw2/taller3/ProcesarLogIn.java</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/src/java/co/edu/uptc/sw2/taller3/ProcesarFormulario.java</file>
+            <file>file:/C:/Users/mauro/Desktop/uptc_2017_2/S2/taller_3/Taller3/src/java/co/edu/uptc/sw2/taller3/FiltroAutenticacion.java</file>
         </group>
     </open-files>
 </project-private>

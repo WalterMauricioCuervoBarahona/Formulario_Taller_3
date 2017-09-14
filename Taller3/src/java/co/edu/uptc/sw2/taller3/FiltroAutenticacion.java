@@ -28,7 +28,7 @@ public class FiltroAutenticacion implements Filter{
         throws IOException, ServletException {
         HttpServletRequest req = (HttpServletRequest) request;
         HttpServletResponse resp = (HttpServletResponse) response;
-        if (req.getSession().getAttribute("usuario")==null) {
+        if (req.getSession().getAttribute("nombre")==null) {
             resp.sendRedirect("./login.html");
         } else {
             chain.doFilter(request, response);
