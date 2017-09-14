@@ -29,7 +29,9 @@ public class ProcesarLogIn extends HttpServlet{
             String pass = req.getParameter("pass");
             req.getSession().setAttribute("nombre", user);
             out.println((user.compareTo(pass)==0?"Bienvenido usuario " +user:"Usuario o contraseña incorrecto"));
-            resp.sendRedirect("./index.html");
+            if(user.compareTo(pass)==0){
+                resp.sendRedirect("./index.html");
+            }            
             out.println("</body>");
             out.println("</html>");
         }catch (Exception e) {
